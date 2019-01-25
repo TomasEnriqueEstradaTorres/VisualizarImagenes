@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NOTA
+    Usando  android:oneshot="false" se logra que la animacion sea permanente, osea que nunca para
+    ya que true solo se usa si se quiere que sea una vez
+   -->
+
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/imagen0" android:duration="50"/>
+    <item android:drawable="@drawable/imagen1" android:duration="50"/>
+    <item android:drawable="@drawable/imagen2" android:duration="50"/>
+    <item android:drawable="@drawable/imagen3" android:duration="50"/>
+    <item android:drawable="@drawable/imagen4" android:duration="50"/>
+    <item android:drawable="@drawable/imagen5" android:duration="50"/>
+    <item android:drawable="@drawable/imagen6" android:duration="50"/>
+    <item android:drawable="@drawable/imagen7" android:duration="50"/>
+    <item android:drawable="@drawable/imagen8" android:duration="50"/>
+    <item android:drawable="@drawable/imagen9" android:duration="50"/>
+    <item android:drawable="@drawable/imagen10" android:duration="50"/>
+    <item android:drawable="@drawable/imagen11" android:duration="50"/>
+    <item android:drawable="@drawable/imagen12" android:duration="50"/>
+    <item android:drawable="@drawable/imagen13" android:duration="50"/>
+    <item android:drawable="@drawable/imagen14" android:duration="50"/>
+    <item android:drawable="@drawable/imagen15" android:duration="50"/>
+    <item android:drawable="@drawable/imagen16" android:duration="50"/>
+    <item android:drawable="@drawable/imagen17" android:duration="50"/>
+    <item android:drawable="@drawable/imagen18" android:duration="50"/>
+    <item android:drawable="@drawable/imagen19" android:duration="50"/>
+    <item android:drawable="@drawable/imagen20" android:duration="50"/>
+    <item android:drawable="@drawable/imagen21" android:duration="50"/>
+    <item android:drawable="@drawable/imagen22" android:duration="50"/>
+    <item android:drawable="@drawable/imagen23" android:duration="50"/>
+    <item android:drawable="@drawable/imagen24" android:duration="50"/>
+    <item android:drawable="@drawable/imagen25" android:duration="50"/>
+    <item android:drawable="@drawable/imagen26" android:duration="50"/>
+    <item android:drawable="@drawable/imagen27" android:duration="50"/>
+    <item android:drawable="@drawable/imagen28" android:duration="50"/>
+    <item android:drawable="@drawable/imagen29" android:duration="50"/>
+    <item android:drawable="@drawable/imagen30" android:duration="50"/>
+    <item android:drawable="@drawable/imagen31" android:duration="50"/>
+    <item android:drawable="@drawable/imagen32" android:duration="50"/>
+    <item android:drawable="@drawable/imagen33" android:duration="50"/>
+    <item android:drawable="@drawable/imagen34" android:duration="50"/>
+    <item android:drawable="@drawable/imagen35" android:duration="50"/>
+    <item android:drawable="@drawable/imagen36" android:duration="50"/>
+    <item android:drawable="@drawable/imagen37" android:duration="50"/>
+    <item android:drawable="@drawable/imagen38" android:duration="50"/>
+    <item android:drawable="@drawable/imagen39" android:duration="50"/>
+    <item android:drawable="@drawable/imagen40" android:duration="50"/>
+    <item android:drawable="@drawable/imagen41" android:duration="50"/>
+    <item android:drawable="@drawable/imagen42" android:duration="50"/>
+    <item android:drawable="@drawable/imagen43" android:duration="50"/>
+    <item android:drawable="@drawable/imagen44" android:duration="50"/>
+    <item android:drawable="@drawable/imagen45" android:duration="50"/>
+    <item android:drawable="@drawable/imagen46" android:duration="50"/>
+    <item android:drawable="@drawable/imagen47" android:duration="50"/>
+    <item android:drawable="@drawable/imagen48" android:duration="50"/>
+    <item android:drawable="@drawable/imagen49" android:duration="50"/>
+    <item android:drawable="@drawable/imagen50" android:duration="50"/>
+    <item android:drawable="@drawable/imagen51" android:duration="50"/>
+    <item android:drawable="@drawable/imagen52" android:duration="50"/>
+    <item android:drawable="@drawable/imagen53" android:duration="50"/>
+    <item android:drawable="@drawable/imagen54" android:duration="50"/>
+    <item android:drawable="@drawable/imagen55" android:duration="50"/>
+    <item android:drawable="@drawable/imagen56" android:duration="50"/>
+    <item android:drawable="@drawable/imagen57" android:duration="50"/>
+    <item android:drawable="@drawable/imagen58" android:duration="50"/>
+    <item android:drawable="@drawable/imagen59" android:duration="50"/>
+    <item android:drawable="@drawable/imagen60" android:duration="50"/>
+    <item android:drawable="@drawable/imagen61" android:duration="50"/>
+    <item android:drawable="@drawable/imagen62" android:duration="50"/>
+    <item android:drawable="@drawable/imagen63" android:duration="50"/>
+    <item android:drawable="@drawable/imagen64" android:duration="50"/>
+    <item android:drawable="@drawable/imagen65" android:duration="50"/>
+    <item android:drawable="@drawable/imagen66" android:duration="50"/>
+
+</animation-list>
+

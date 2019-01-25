@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/aventurero0" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero1" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero2" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero3" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero4" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero5" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero6" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero7" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero8" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero9" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero10" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero11" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero12" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero13" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero14" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero15" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero16" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero17" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero18" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero19" android:duration="50"/>
+
+</animation-list>

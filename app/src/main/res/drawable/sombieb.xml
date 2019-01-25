@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/sombieb1" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb2" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb3" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb4" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb5" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb6" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb7" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb8" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb9" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb10" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb11" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb12" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb13" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb14" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb15" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb16" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb17" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb18" android:duration="50"/>
+
+</animation-list>
