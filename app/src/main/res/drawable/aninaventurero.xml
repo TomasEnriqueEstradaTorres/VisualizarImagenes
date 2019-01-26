@@ -21,5 +21,15 @@
     <item android:drawable="@drawable/aventurero17" android:duration="50"/>
     <item android:drawable="@drawable/aventurero18" android:duration="50"/>
     <item android:drawable="@drawable/aventurero19" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero20" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero21" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero22" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero23" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero24" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero25" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero26" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero27" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero28" android:duration="50"/>
+    <item android:drawable="@drawable/aventurero29" android:duration="50"/>
 
 </animation-list>

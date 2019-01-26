@@ -10,54 +10,52 @@
 
     <ImageView
         android:id="@+id/imageViewOpcion1"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginEnd="53dp"
+        android:layout_width="110dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="30dp"
         android:contentDescription="@string/todo"
-        android:src="@drawable/aventurero"
-        app:layout_constraintBottom_toBottomOf="@+id/imageViewOpcion2"
-        app:layout_constraintEnd_toStartOf="@+id/imageViewOpcion2"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageViewOpcion2" />
+        android:src="@drawable/regalo"
+        app:layout_constraintStart_toEndOf="@+id/imageViewInter1"
+        app:layout_constraintTop_toBottomOf="@+id/textViewDetalle" />
 
     <ImageView
         android:id="@+id/imageViewOpcion2"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginEnd="58dp"
-        android:layout_marginBottom="45dp"
+        android:layout_width="110dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="19dp"
         android:contentDescription="@string/todo"
-        android:src="@drawable/sombiea"
-        app:layout_constraintBottom_toTopOf="@+id/imageViewOpcion4"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageViewOpcion1"
+        android:src="@drawable/regalo"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewInter2"
         app:layout_constraintTop_toBottomOf="@+id/textViewDetalle" />
 
 
     <ImageView
         android:id="@+id/imageViewOpcion3"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginEnd="53dp"
+        android:layout_width="110dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="76dp"
         android:contentDescription="@string/todo"
-        android:src="@drawable/sombiea"
-        app:layout_constraintBottom_toBottomOf="@+id/imageViewOpcion4"
-        app:layout_constraintEnd_toStartOf="@+id/imageViewOpcion4"
+        android:src="@drawable/regalo"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewReloj"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageViewOpcion4" />
+        app:layout_constraintTop_toBottomOf="@+id/imageViewOpcion1" />
 
 
     <ImageView
         android:id="@+id/imageViewOpcion4"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginEnd="58dp"
-        android:layout_marginBottom="26dp"
+        android:layout_width="110dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="86dp"
+        android:layout_marginBottom="76dp"
         android:contentDescription="@string/todo"
-        android:src="@drawable/sombieb"
-        app:layout_constraintBottom_toTopOf="@+id/textViewMensaje"
+        android:src="@drawable/regalo"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewReloj"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageViewOpcion3"
         app:layout_constraintTop_toBottomOf="@+id/imageViewOpcion2" />
@@ -65,28 +63,32 @@
 
     <ImageView
         android:id="@+id/imageViewReloj"
-        android:layout_width="100dp"
-        android:layout_height="0dp"
-        android:layout_marginBottom="17dp"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="19dp"
         android:contentDescription="@string/todo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonReinicio"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textViewMensaje"
-        app:srcCompat="@drawable/reloj" />
+        app:srcCompat="@drawable/aninreloj" />
 
     <TextView
         android:id="@+id/textViewTitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="117dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginBottom="437dp"
         android:text="@string/adivida"
         android:textAlignment="center"
         android:textColor="@color/azul"
         android:textSize="25sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textViewDetalle"
+        app:layout_constraintBottom_toTopOf="@+id/buttonReinicio"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -95,29 +97,88 @@
         android:id="@+id/textViewMensaje"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/adivida"
+        android:layout_marginStart="205dp"
+        android:layout_marginTop="411dp"
+        android:layout_marginEnd="206dp"
+        android:layout_marginBottom="157dp"
+        android:text="@string/vacio"
         android:textAlignment="center"
         android:textColor="@color/negro"
         android:textSize="25sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/imageViewReloj"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageViewOpcion4" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textViewDetalle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="29dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="73dp"
         android:text="@string/detalle"
         android:textAlignment="center"
         android:textColor="@color/azulClaro"
         android:textSize="25sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/imageViewOpcion2"
-        app:layout_constraintStart_toStartOf="@+id/imageViewOpcion1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitulo" />
+
+    <ImageView
+        android:id="@+id/imageViewInter1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="136dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/aninsombiea" />
+
+    <ImageView
+        android:id="@+id/imageViewInter2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="17dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/aninsombieb" />
+
+    <ImageView
+        android:id="@+id/imageViewReferencia"
+        android:layout_width="49dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="57dp"
+        android:contentDescription="@string/todo"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewReloj"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/aventurero12" />
+
+    <Button
+        android:id="@+id/buttonReinicio"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="45dp"
+        android:backgroundTint="@color/verdeClaro"
+        android:text="@string/reinicio"
+        android:textColor="@color/azul"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageViewReloj"
         app:layout_constraintTop_toBottomOf="@+id/textViewTitulo" />
 
 

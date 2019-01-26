@@ -19,5 +19,15 @@
     <item android:drawable="@drawable/sombieb16" android:duration="50"/>
     <item android:drawable="@drawable/sombieb17" android:duration="50"/>
     <item android:drawable="@drawable/sombieb18" android:duration="50"/>
+    <item android:drawable="@drawable/sombieb19" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb20" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb21" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb22" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb23" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb24" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb25" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb26" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb27" android:duration="100"/>
+    <item android:drawable="@drawable/sombieb28" android:duration="100"/>
 
 </animation-list>

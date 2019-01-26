@@ -10,6 +10,9 @@
     <color name="azulClaro">#2E64FE</color>
 
 
+    <color name="toastborder">#e30000</color>
+    <color name="toastbackground">#7f817f</color>
+    <color name="verdeClaro">#00FF80</color>
 
 
 </resources>

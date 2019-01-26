@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/sombiea1" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea2" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea3" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea4" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea5" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea6" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea7" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea8" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea9" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea10" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea11" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea12" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea14" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea15" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea16" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea17" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea18" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea19" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea20" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea21" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea22" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea23" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea24" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea25" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea26" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea27" android:duration="100"/>
+    <item android:drawable="@drawable/sombiea28" android:duration="100"/>
+</animation-list>
+
+<!--
+
+    <item android:drawable="@drawable/sombiea1" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea2" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea3" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea4" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea5" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea6" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea7" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea8" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea9" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea10" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea11" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea12" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea14" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea15" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea16" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea17" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea18" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea19" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea20" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea21" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea22" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea23" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea24" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea25" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea26" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea27" android:duration="50"/>
+    <item android:drawable="@drawable/sombiea28" android:duration="50"/>
+
+
+-->
