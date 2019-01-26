@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">VisualizarImagenes</string>
-    <string name="adivida">Adivida Adivina</string>
+    <string name="adivina">Adivida Adivina</string>
     <string name="detalle">Haz clic en una imagen</string>
     <string name="vacio"></string>
     <string name="todo">TODO</string>
